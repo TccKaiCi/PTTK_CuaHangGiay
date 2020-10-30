@@ -14,3 +14,4 @@
 
 # Giới thiệu
 Đây là version 2, chúng tôi cập nhật lại về những thiếu sót
+hiamkaito.github.io/Shop_Manager_System_Ver2/
