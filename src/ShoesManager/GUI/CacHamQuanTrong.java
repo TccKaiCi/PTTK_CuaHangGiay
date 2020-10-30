@@ -1,11 +1,13 @@
 package ShoesManager.GUI;
 //chung
+//TANH
 public class CacHamQuanTrong {
     
     /**
      * Kiểm tra tham số truyền vào có phải là <h2>số</h2> hay không
      * @return true nếu là kiểu dữ liệu số Double
      */
+    
     public boolean isNumeric(String var) {
         try {  
             Double.parseDouble(var);  
