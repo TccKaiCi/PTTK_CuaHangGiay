@@ -1,7 +1,7 @@
 # Shop_Manager_System_Ver2
 Đồ án môn "Phân tích thiết kế hướng đối tượng"
 
-# Phần mềm Quản lý cửa hàng Giày
+# [Phần mềm Quản lý cửa hàng Giày](https://hiamkaito.github.io/Shop_Manager_System_Ver2/)
 
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
@@ -14,4 +14,3 @@
 
 # Giới thiệu
 Đây là version 2, chúng tôi cập nhật lại về những thiếu sót
-hiamkaito.github.io/Shop_Manager_System_Ver2/
