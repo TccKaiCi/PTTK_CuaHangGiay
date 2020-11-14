@@ -1,5 +1,5 @@
 package ShoesManager.GUI;
-//chung asdfadsfasdfa
+//Ghê TH36
 public class CacHamQuanTrong {
     
     /**
