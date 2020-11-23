@@ -11,6 +11,6 @@
 |------| ----- | ----- |
 | 3118410043 | Tăng Chí Chung | 0% |
 | 3118410028 | Nguyễn Tuấn Anh | 0% |
-
+| 3118410228 | Nguyễn Di Nguy | 0% |
 # Giới thiệu
 Đây là version 2, chúng tôi cập nhật lại về những thiếu sót
