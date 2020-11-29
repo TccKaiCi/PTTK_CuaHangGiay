@@ -7,10 +7,9 @@
 ![Language](https://img.shields.io/badge/Team-SGU-orange.svg)
 
 ## Team
-| MSSV | Họ và Tên  | Phần trăm việc làm |
-|------| ----- | ----- |
-| 3118410043 | Tăng Chí Chung | 0% |
-| 3118410028 | Nguyễn Tuấn Anh | 0% |
-| 3118410228 | Nguyễn Di Nguy | 0% |
+| Họ và Tên  | Phần trăm việc làm |
+| ----- | ----- |
+| Tăng Chí Chung | 0% |
+| Nguyễn Tuấn Anh | 0% |
+| Nguyễn Di Nguy | 0% |
 # Giới thiệu
-Đây là version 2, chúng tôi cập nhật lại về những thiếu sót
