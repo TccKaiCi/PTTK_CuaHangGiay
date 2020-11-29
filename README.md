@@ -1,5 +1,4 @@
-Đồ án môn "Phân tích thiết kế hướng đối tượng" làm cho lấy yêu cầu môn:
-# [Phần mềm Quản lý cửa hàng Giày](https://hiamkaito.github.io/Shop_Manager_System/)
+Đồ án môn "Phân tích thiết kế hướng đối tượng" làm cho lấy yêu cầu môn: <h2>[Java](https://github.com/HiamKaito/Shop_Manager_System)</h2>
 
 ## Team
 | Họ và Tên  | Phần trăm việc làm |
