@@ -3,6 +3,6 @@
 ## Team
 | Họ và Tên  | Phần trăm việc làm |
 | ----- | ----- |
-| Tăng Chí Chung | 0% |
-| Nguyễn Tuấn Anh | 0% |
-| Nguyễn Di Nguy | 0% |
+| Tăng Chí Chung | 45% |
+| Nguyễn Tuấn Anh | 35% |
+| Nguyễn Di Nguy | 20% |
